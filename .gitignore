@@ -1,4 +1,4 @@
 desc.txt
 *.txt
 myFolder/
-!text.txt
+text.txt
